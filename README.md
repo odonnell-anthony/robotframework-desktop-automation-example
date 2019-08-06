@@ -34,7 +34,7 @@ A basic Robot Framework Desktop Application (Microsoft Paint) test suite with th
 ### How do I get set up? ###
 
 * Install [Python 3](https://python.org/)
-~ Install Java SDK and add PATH enviroment variables
+* Install Java SDK and add PATH enviroment variables
 * Clone or download this repository
 * Using the command line navigate in to the project folder and execute the command ```pip install -r requirements``` this will install robot framework and the required supporting library and dependencies as well as [pypiwin32](https://github.com/Googulator/pypiwin32)
 
