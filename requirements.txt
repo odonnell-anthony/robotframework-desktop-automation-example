@@ -1,0 +1,4 @@
+pypiwin32==223
+pywin32==224
+robotframework==3.1.2
+robotframework-SikuliLibrary==1.0.8
